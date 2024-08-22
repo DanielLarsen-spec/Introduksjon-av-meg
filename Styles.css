@@ -1,0 +1,41 @@
+.card{
+width: 500px;
+background-color: rgb(93, 170, 170);
+border: 1px solid rgb(179, 161, 161);
+margin: 10px;
+
+}
+.Headercard{
+color: antiquewhite;
+text-align: center;
+font-size: x-large;
+padding: 1px 0;
+user-select: none;
+
+}
+.Innercard{
+padding: 10px;
+}
+
+.Overskrift{
+color: rgb(78, 134, 134);    
+text-align: left
+}
+
+
+.body{
+    margin: 20px;
+}
+
+.p{
+    padding: left 10px; ;
+}
+
+
+
+
+
+
+
+
+
