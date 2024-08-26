@@ -27,6 +27,11 @@ På fritiden driver jeg med:
 `;
 }
 
+function ChangeBackground(Color){
+document.getElementById('body').style.backgroundColor = Color;
+
+
+}
 
 
 
